@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/emo5p4wobahable8?svg=true)](https://ci.appveyor.com/project/Aleks282/ci-2lrlx)
+
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
