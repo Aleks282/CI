@@ -1,5 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/c4fv3ydp082mmk6x?svg=true)](https://ci.appveyor.com/project/Aleks282/ci-525xe)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/tp8ijgl93a3tkbxp?svg=true)](https://ci.appveyor.com/project/Aleks282/ci-bqg1n)
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
